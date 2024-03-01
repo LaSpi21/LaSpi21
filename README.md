@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="your-profile-image-url" alt="Your Name" width="200"/>
-</p>
-
 # Welcome 👋
 
 I'm Pablo La Spina, a Biological Sciences Ph.D specializing in Molecular Biology and Bioinformatics. Currently diving into the exciting realms of Data Science and Machine Learning, I'm on a mission to merge the best of biology and tech. 🔬
