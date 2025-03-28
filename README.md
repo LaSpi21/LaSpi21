@@ -6,7 +6,7 @@ I'm Pablo La Spina, a Biological Sciences Ph.D specializing in Molecular Biology
 
 - 🧪Ph.D. in Biological Sciences
 - 🧬MSc in Biotechnology
-- 🌱Currently studyng Data Science
+- 🌱Currently studying Data Science
 
 <!--
 **LaSpi21/LaSpi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
